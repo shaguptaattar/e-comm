@@ -1,0 +1,29 @@
+/* App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ececf4; /* Set a background color */
+}
+
+.container {
+  padding: 20px;
+  box-shadow: #007bff; /* Add some padding to the container */
+}
+
+/* Customize Navbar styling */
+.navbar {
+  background-color: #007bff; /* Set Navbar background color */
+  color: #ffffff; /* Set text color */
+}
+ 
+/* Customize button styling */
+.btn-primary {
+  background-color: #28a745; /* Set primary button background color */
+  border-color: #28a745;
+  box-shadow: #007bff; /* Set primary button border color */
+}
+
+/* Add styles for your Success and Cancel pages as needed */
+
