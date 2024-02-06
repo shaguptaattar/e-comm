@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # e-comm
 Reactjs project
 >>>>>>> 4c264d89ba94de49e2e6049eb9808d1e3894a16a
+>>>>>>> output
+>>>>>>> 
+![Screenshot 2024-02-02 000651](https://github.com/shaguptaattar/e-comm/assets/156106227/e2a60242-b349-4b6a-8cd6-362df3a78ed6)
+
+
+![Screenshot 2024-02-02 000842](https://github.com/shaguptaattar/e-comm/assets/156106227/182d2add-5624-4a89-920d-e6c0ec9da3e8)
